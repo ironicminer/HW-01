@@ -1,2 +1,4 @@
-# HW-01
-code refactor and deployment
+# Search Engine Optimization
+Deployed seo page.
+![picture alt](assets\images\SEOscreenshot.png "screenshot")
+assets\images\SEOscreenshot.png
